@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/PolymerLabs/benchmarks#readme",
   "dependencies": {
+    "chromedriver": "^79.0.0",
     "clang-format": "^1.2.4",
     "tachometer": "^0.4.4"
   }

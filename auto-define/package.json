@@ -1,0 +1,9 @@
+{
+  "name": "auto-define-benchmarks",
+  "version": "0.1.0",
+  "description": "Benchmarks for auto-define",
+  "main": "index.js",
+  "dependencies": {
+    "lit-element": "^2.1.0"
+  }
+}
